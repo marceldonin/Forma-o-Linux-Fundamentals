@@ -1,6 +1,3 @@
-script-desafio2.sh
-CRIANDO UM SCRIPT para executar no Linux:
-
 #!/bin/bash
 
 echo "Atualizando o servidor"
